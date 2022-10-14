@@ -2,3 +2,7 @@ github.com/burntcarrot/ricecake v0.1.0 h1:RrEvoMDjhADcpdHUQUQ23xl7n/VUlM5DTdiox2
 github.com/burntcarrot/ricecake v0.1.0/go.mod h1:3qlvtsP1lsrYgqiplNnlUQoHEUVp0NEWZJKVNHBSds0=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
 github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
+golang.org/x/build v0.0.0-20221013193959-d0ca5194ff49 h1:4H2rIuelUoUv6IiHIf3g0Vw7d7VZk5MB2QOXxO/P4wM=
+golang.org/x/build v0.0.0-20221013193959-d0ca5194ff49/go.mod h1:09OhLJI8jZv4jqec7zqh+ZlRZKsSZgDyM5MV3pjurk4=
+golang.org/x/exp v0.0.0-20221012211006-4de253d81b95 h1:sBdrWpxhGDdTAYNqbgBLAR+ULAPPhfgncLr1X0lyWtg=
+golang.org/x/exp v0.0.0-20221012211006-4de253d81b95/go.mod h1:cyybsKvd6eL0RnXn6p/Grxp8F5bW7iYuBgsNCOHpMYE=
